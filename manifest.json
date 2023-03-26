@@ -1,6 +1,6 @@
 {
     "name" : "若依移动端",
-    "appid" : "__UNI__25A9D80",
+    "appid" : "__UNI__67CCDDE",
     "description" : "",
     "versionName" : "1.1.0",
     "versionCode" : "100",
@@ -65,5 +65,8 @@
             "mode" : "hash",
             "base" : "./"
         }
+    },
+    "uniStatistics" : {
+        "version" : "2"
     }
 }
