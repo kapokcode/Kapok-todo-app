@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@toast-ui/calendar": "^2.1.3",
+    "element-ui": "^2.15.13",
+    "tui-calendar-hi": "^1.15.1-5"
+  }
+}

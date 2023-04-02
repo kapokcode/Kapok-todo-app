@@ -10,8 +10,12 @@
         </swiper-item>
       </swiper>
     </uni-swiper-dot>
+	
+	<!-- 日历组件 start-->
+	
+	<!-- 日历组件 end-->
 
-    <!-- 宫格组件 -->
+    <!-- 宫格组件 start
     <uni-section title="系统管理" type="line"></uni-section>
     <view class="grid-body">
       <uni-grid :column="4" :showBorder="false" @change="changeGrid">
@@ -71,11 +75,14 @@
         </uni-grid-item>
       </uni-grid>
     </view>
+	<!-- 宫格组件 end-->
   </view>
 </template>
 
 <script>
   export default {
+	components: {
+	},
     data() {
       return {
         current: 0,

@@ -7,18 +7,17 @@
   }, {
     "path": "pages/index",
     "style": {
-      "navigationBarTitleText": "若依移动端框架",
-      "navigationStyle": "custom"
+      "navigationBarTitleText": "木棉清单"
     }
   }, {
     "path": "pages/work/index",
     "style": {
-      "navigationBarTitleText": "工作台"
+      "navigationBarTitleText": "木棉清单"
     }
   }, {
     "path": "pages/mine/index",
     "style": {
-      "navigationBarTitleText": "我的"
+      "navigationBarTitleText": "木棉清单"
     }
   }, {
     "path": "pages/mine/avatar/index",
@@ -80,7 +79,7 @@
         "pagePath": "pages/work/index",
         "iconPath": "static/images/tabbar/work.png",
         "selectedIconPath": "static/images/tabbar/work_.png",
-        "text": "工作台"
+        "text": "待办"
       }, {
         "pagePath": "pages/mine/index",
         "iconPath": "static/images/tabbar/mine.png",
